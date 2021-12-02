@@ -12,7 +12,7 @@ echo $stuff
 # ===============================
 
 # AWS Profile Name
-profile="lecode"
+profile="profile_name"
 
 # Groups, separated with spaces
 group_ids="sg-XXXXXXX"
